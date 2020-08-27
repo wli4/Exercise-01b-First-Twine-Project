@@ -5,7 +5,7 @@ This exercise is an opportunity for you to create your first project in Twine, t
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01b-First-Twine-Project. *Edit the LICENSE and replace BL-MSCH-C220-F20 with your full name.* Commit your changes.
 
-Press the green "Code" button and select "Open in GitHub Desktop".
+Press the green "Code" button and select "Open in GitHub Desktop". Allow the browser to open (or install) GitHub Desktop. Once GitHub Desktop has loaded, you should see a window labeled "Clone a Repository" asking you for a Local Path on your computer where the project should be copied. Choose a location where you will keep the repositories for this class (a C220 folder off your Desktop would be fine). Make sure the Local Path ends with "Exercise-01b-First-Twine-Project" and then press the "Clone" button. GitHub Desktop will now download a copy of the repository to the location you indicated.
 
 Open Twine, and press the "+ Story" button in the right side bar. When you are asked what your story should be named, enter "Adventure". Press the "+Add" button to get started.
 
