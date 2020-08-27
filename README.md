@@ -74,7 +74,7 @@ When you are done, return to Twine. On the bottom bar press the "Adventure" labe
 
 Navigate to the location of your repository in your file system. Save the file as Adventure.html in the repository (Exercise-01b-First-Twine-Project) folder.
 
-Quit Twine. In GitHub desktop, you should now see Adventure.html listed in the left panel. In the bottom of that panel, type a Summary message (something like "Adds a simple version of the Adventure Interactive Fiction game") and press the "Commit to master" button. On the right side of the top, black panel, you should see a button labeled "Push to origin". Press that now.
+Quit Twine. In GitHub desktop, you should now see Adventure.html listed in the left panel. In the bottom of that panel, type a Summary message (something like "Adds a simple version of the Adventure Interactive Fiction game") and press the "Commit to master" button. On the right side of the top, black panel, you should see a button labeled "Push origin". Press that now.
 
 If you return to and refresh your GitHub repository page, you should now see Adventure.html listed among the files.
 
